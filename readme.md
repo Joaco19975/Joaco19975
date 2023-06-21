@@ -15,7 +15,4 @@ My name is Joaquin Paradela, I'm from Argentina.
 ## Contact
 My e-mail: joaquin.paradela28@gmail.com
 
-## Download my cv/resume
-
-[Descargar mi CV](cv/Joaquin_Paradela_cv.pdf)
 
