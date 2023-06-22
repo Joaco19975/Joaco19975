@@ -4,9 +4,8 @@ My name is Joaquin Paradela, I'm from Argentina.
 
 ## Skills
 
-```html
-<img src="tecnologies/Javascriptt.png" alt="Javascript" width="64" height="64">
-```
+
+![Javascript](tecnologies/javascript2.png)
 ![Php](tecnologies/php2.png)
 ![Laravel](tecnologies/laravel.png)
 ![Sql](tecnologies/sql2.png)
