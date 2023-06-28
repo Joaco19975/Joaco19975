@@ -5,7 +5,7 @@ My name is Joaquin Paradela, I'm from Argentina.
 ## Skills
 
 
-![Javascript](tecnologies/jscriptt.png)
+![Javascript](tecnologies/javascript2.png)
 ![Php](tecnologies/php2.png)
 ![Laravel](tecnologies/laravel.png)
 ![Sql](tecnologies/sql2.png)
