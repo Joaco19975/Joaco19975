@@ -10,7 +10,7 @@ My name is Joaquin Paradela, I'm from Argentina.
 ![Laravel](tecnologies/laravel.png)
 ![Sql](tecnologies/sql2.png)
 ![Mysql](tecnologies/mysql2.png)
-![Bootstrap](tecnologies/bootstrap2.png)
+![Bootstrap](tecnologies/bootstrapp.png)
 ![Html](tecnologies/html.png)
 
 
